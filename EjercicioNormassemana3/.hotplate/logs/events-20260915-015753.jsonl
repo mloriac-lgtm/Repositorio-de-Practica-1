@@ -1,0 +1,5 @@
+{"ts":"2026-09-15T01:57:53.167Z","session":"20260915-015753","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"c:\\Users\\marif\\OneDrive\\Documentos\\Principios de Programacion 1\\EjercicioNormas","https":false,"live_reload":true}}
+{"ts":"2026-09-15T01:57:54.161Z","session":"20260915-015753","kind":"http_request","data":{"method":"GET","path":"/","status":200,"duration_ms":0}}
+{"ts":"2026-09-15T01:57:54.625Z","session":"20260915-015753","kind":"http_request","data":{"method":"GET","path":"/favicon.ico","status":404,"duration_ms":1}}
+{"ts":"2026-09-15T01:57:54.709Z","session":"20260915-015753","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0","viewport":[606,698]}}
+{"ts":"2026-09-15T01:59:16.257Z","session":"20260915-015753","kind":"ws_disconnect","data":{"client_id":"c0"}}
